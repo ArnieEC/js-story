@@ -1,6 +1,6 @@
 # js-storygame
 ### Description
-The task was to create a story-based game using only javascript. The game I chose was one that simulated the build-up and first week of starting at Sparta Gloabl
+The task was to create a story-based game using only javascript. The game I chose was one that simulated the build-up and first week of starting at Sparta Global.
 
 ### Languages used
 * Javascript
@@ -15,9 +15,10 @@ The task was to create a story-based game using only javascript. The game I chos
 (If its hosted on Github Pages then...)
 #### You can view the page [here]()
 
-### Challenges (you can include images and code block here)
+### Challenges
 1. Making sure all typos were eliminated
 2. Formatting an if statement correctly, I orignially had each if statement branch its own game, leading to a lot of lines of code
+3. Trying to understand the logic and learn about each statement applied a lot of time constraints
 
 ### Learning points
 1. A greater understanding of Javascript, specifically if statements
