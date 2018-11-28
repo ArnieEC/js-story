@@ -1,6 +1,4 @@
 # js-storygame
-
-# Homework title
 ### Description
 The task was to create a story-based game using only javascript. The game I chose was one that simulated the build-up and first week of starting at Sparta Gloabl
 
