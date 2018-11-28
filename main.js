@@ -61,36 +61,3 @@ else if (firstDay === "yes" || firstHomework === "yes" || prep === "yes" || prew
 else {
   alert ("Through pure luck and certainly no effort on your end, you have managed to make it through your first week... You might want to rethink your work ethic")
 }
-// while loop removed from code ~line 10, it broke everything else, was stuck in an infinite loop, or both
-// while (prework > 7) {
-//   alert ("You do not have more than 7 days to do the work")
-//   var newPrework = prompt ("you have been given 44 hours worth of work to be completed before you start your course in a week, how many days do you decide to complete the work over?") ;
-//   if (7 >= newPrework > 5) alert ("Nice job! you have left more than enough time to complete all of your prework") ;
-//   if (newPrework <= 7) break ;
-// }
-
-// switch for prework, didn't work either
-
-// switch (prework) {
-//   case "7":
-//   alert("you left plenty of time")
-//   break; 
-//   case "6":
-//   alert("you  plenty of time")
-//   break;
-//   case "5":
-//   alert("you left  of time")
-//   break;
-//   case "4":
-//   alert("you left plenty  time")
-//   break;
-//   case "3":
-//   alert("you left plenty of time")
-//   break;
-//   case "2":
-//   alert(" left plenty of time")
-//   break;
-//   default: 
-//   alert ("you didn't leave plenty of time")
-//   break;
-// }
